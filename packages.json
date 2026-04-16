@@ -1,3 +1,6 @@
-{
-  "packages": ["ugplot"]
-}
+[
+    {
+        "package": "ugplot",
+        "url": "https://github.com/a00s/ugplot"
+    }
+]
